@@ -1,0 +1,20 @@
+{
+  "$schema": "file:///C:/Lia/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.0.0",
+    "name": "포켓몬",
+    "description": "리아 네트워크 포켓몬 서버",
+    "address": "riapoket.mcsv.kr:25565",
+    "discord": {
+      "shortId": "리아 네트워크 - 포켓몬",
+      "largeImageText": "포켓몬 잡는 중",
+      "largeImageKey": "main.png"
+    },
+    "mainServer": false,
+    "autoconnect": true
+  },
+  "forge": {
+    "version": "14.23.5.2859"
+  },
+  "untrackedFiles": []
+}
