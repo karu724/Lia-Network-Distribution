@@ -9,7 +9,7 @@
   "servers": [
     {
       "id": "Ria-Island-1.17.1",
-      "name": ".아일랜드",
+      "name": "아일랜드",
       "description": "리아 네트워크 아일랜드 서버",
       "icon": null,
       "version": "1.0.0",
