@@ -40,7 +40,7 @@
               "artifact": {
                 "size": 17148,
                 "MD5": "b7079fa92e1260761b77cbebbd5f65c0",
-                "url": "https://media.githubusercontent.com/media/karu724/Lia-Network-Distribution/main/repo/versions/1.17.1-forge-37.1.1/1.17.1-forge-37.1.1.json"
+                "url": "https://raw.githubusercontent.com/karu724/Lia-Network-Distribution/main/repo/versions/1.17.1-forge-37.1.1/1.17.1-forge-37.1.1.json"
               }
             },
             {
@@ -493,7 +493,7 @@
               "artifact": {
                 "size": 12345,
                 "MD5": "1959bb357e54a9666dd80d744b524639",
-                "url": "https://media.githubusercontent.com/media/karu724/Lia-Network-Distribution/main/repo/versions/1.12.2-forge-14.23.5.2859/1.12.2-forge-14.23.5.2859.json"
+                "url": "https://github.com/karu724/Lia-Network-Distribution/blob/main/repo/versions/1.12.2-forge-14.23.5.2859/1.12.2-forge-14.23.5.2859.json"
               }
             },
             {
@@ -812,7 +812,7 @@
               "artifact": {
                 "size": 12345,
                 "MD5": "1959bb357e54a9666dd80d744b524639",
-                "url": "https://media.githubusercontent.com/media/karu724/Lia-Network-Distribution/main/repo/versions/1.12.2-forge-14.23.5.2859/1.12.2-forge-14.23.5.2859.json"
+                "url": "https://github.com/karu724/Lia-Network-Distribution/blob/main/repo/versions/1.12.2-forge-14.23.5.2859/1.12.2-forge-14.23.5.2859.json"
               }
             },
             {
