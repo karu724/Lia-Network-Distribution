@@ -2,15 +2,15 @@
   "version": "1.0.0",
   "rss": "<LINK TO RSS FEED>",
   "discord": {
-    "clientId": "리아 네트워크 로비",
-    "smallImageText": "리아 네트워크 대기",
+    "clientId": "리아 네트워크",
+    "smallImageText": "서버 접속 대기중",
     "smallImageKey": "main.png"
   },
   "servers": [
     {
       "id": "Ria-Island-1.17.1",
       "name": "아일랜드",
-      "description": "리아 네트워크 아일랜드 서버",
+      "description": "리아 네트워크 아일랜드",
       "icon": null,
       "version": "1.0.0",
       "address": "riaisland.mcsv.kr:25565",
@@ -30,7 +30,7 @@
           "artifact": {
             "size": 109566,
             "MD5": "a905dc8b8194c19f064c455854bddba7",
-            "url": "https://raw.githubusercontent.com/karu724/Lia-Network-Distribution/main/repo/lib/net/minecraftforge/fmlcore/1.17.1-37.1.1/fmlcore-1.17.1-37.1.1.jar"
+            "url": "https://github.com/karu724/Lia-Network-Distribution/blob/main/repo/lib/net/minecraftforge/fmlcore/1.17.1-37.1.1/fmlcore-1.17.1-37.1.1.jar"
           },
           "subModules": [
             {
@@ -40,7 +40,7 @@
               "artifact": {
                 "size": 17148,
                 "MD5": "b7079fa92e1260761b77cbebbd5f65c0",
-                "url": "https://raw.githubusercontent.com/karu724/Lia-Network-Distribution/main/repo/versions/1.17.1-forge-37.1.1/1.17.1-forge-37.1.1.json"
+                "url": "https://github.com/karu724/Lia-Network-Distribution/blob/main/repo/versions/1.17.1-forge-37.1.1/1.17.1-forge-37.1.1.json"
               }
             },
             {
@@ -50,7 +50,7 @@
               "artifact": {
                 "size": 16287,
                 "MD5": "da58bcac76681781571d0d23b1e9ab81",
-                "url": "https://raw.githubusercontent.com/karu724/Lia-Network-Distribution/main/repo/lib/net/minecraftforge/javafmllanguage/1.17.1-37.1.1/javafmllanguage-1.17.1-37.1.1.jar"
+                "url": "https://github.com/karu724/Lia-Network-Distribution/blob/main/repo/lib/net/minecraftforge/javafmllanguage/1.17.1-37.1.1/javafmllanguage-1.17.1-37.1.1.jar"
               },
               "subModules": []
             },
@@ -61,7 +61,7 @@
               "artifact": {
                 "size": 4980,
                 "MD5": "17edb519182d388e5abbad4dd646561f",
-                "url": "https://raw.githubusercontent.com/karu724/Lia-Network-Distribution/main/repo/lib/net/minecraftforge/mclanguage/1.17.1-37.1.1/mclanguage-1.17.1-37.1.1.jar"
+                "url": "https://github.com/karu724/Lia-Network-Distribution/blob/main/repo/lib/net/minecraftforge/mclanguage/1.17.1-37.1.1/mclanguage-1.17.1-37.1.1.jar"
               },
               "subModules": []
             },
@@ -72,7 +72,7 @@
               "artifact": {
                 "size": 2338275,
                 "MD5": "4e203d37dc5c47f7d647b84743e54d1b",
-                "url": "https://raw.githubusercontent.com/karu724/Lia-Network-Distribution/main/repo/lib/net/minecraftforge/forge/1.17.1-37.1.1/forge-1.17.1-37.1.1-universal.jar"
+                "url": "https://github.com/karu724/Lia-Network-Distribution/blob/main/repo/lib/net/minecraftforge/forge/1.17.1-37.1.1/forge-1.17.1-37.1.1-universal.jar"
               },
               "subModules": []
             },
@@ -82,8 +82,8 @@
               "type": "Library",
               "artifact": {
                 "size": 4259465,
-                "MD5": "9ceeb800bce891a9db3c17c5a899688a",
-                "url": "https://raw.githubusercontent.com/karu724/Lia-Network-Distribution/main/repo/lib/net/minecraftforge/forge/1.17.1-37.1.1/forge-1.17.1-37.1.1-client.jar"
+                "MD5": "23fa27ef1d5990aa242f57ac62f2a046",
+                "url": "https://github.com/karu724/Lia-Network-Distribution/blob/main/repo/lib/net/minecraftforge/forge/1.17.1-37.1.1/forge-1.17.1-37.1.1-client.jar"
               },
               "subModules": []
             },
@@ -93,8 +93,8 @@
               "type": "Library",
               "artifact": {
                 "size": 15745893,
-                "MD5": "349bd7fa8ec7e43794a9783ac74545ec",
-                "url": "https://raw.githubusercontent.com/karu724/Lia-Network-Distribution/main/repo/lib/net/minecraft/client/1.17.1-20210706.113038/client-1.17.1-20210706.113038-srg.jar"
+                "MD5": "9a7ce430a87649a6183e49ec6a2579bd",
+                "url": "https://github.com/karu724/Lia-Network-Distribution/blob/main/repo/lib/net/minecraft/client/1.17.1-20210706.113038/client-1.17.1-20210706.113038-srg.jar"
               },
               "subModules": []
             },
@@ -105,7 +105,7 @@
               "artifact": {
                 "size": 10268370,
                 "MD5": "8c19993a3ff5945f585513c49a4151bd",
-                "url": "https://raw.githubusercontent.com/karu724/Lia-Network-Distribution/main/repo/lib/net/minecraft/client/1.17.1-20210706.113038/client-1.17.1-20210706.113038-slim.jar"
+                "url": "https://github.com/karu724/Lia-Network-Distribution/blob/main/repo/lib/net/minecraft/client/1.17.1-20210706.113038/client-1.17.1-20210706.113038-slim.jar"
               },
               "subModules": []
             },
@@ -116,7 +116,7 @@
               "artifact": {
                 "size": 9278494,
                 "MD5": "83b5015d424a64d9911a0e520ae15840",
-                "url": "https://raw.githubusercontent.com/karu724/Lia-Network-Distribution/main/repo/lib/net/minecraft/client/1.17.1-20210706.113038/client-1.17.1-20210706.113038-extra.jar"
+                "url": "https://github.com/karu724/Lia-Network-Distribution/blob/main/repo/lib/net/minecraft/client/1.17.1-20210706.113038/client-1.17.1-20210706.113038-extra.jar"
               },
               "subModules": []
             },
@@ -127,7 +127,7 @@
               "artifact": {
                 "size": 79913,
                 "MD5": "1ccebb7dcbf30057243433755e48697f",
-                "url": "https://raw.githubusercontent.com/karu724/Lia-Network-Distribution/main/repo/lib/cpw/mods/securejarhandler/0.9.54/securejarhandler-0.9.54.jar"
+                "url": "https://github.com/karu724/Lia-Network-Distribution/blob/main/repo/lib/cpw/mods/securejarhandler/0.9.54/securejarhandler-0.9.54.jar"
               }
             },
             {
@@ -137,7 +137,7 @@
               "artifact": {
                 "size": 121790,
                 "MD5": "54b9f5d15e4877a4ea4cf9ec48e07afa",
-                "url": "https://raw.githubusercontent.com/karu724/Lia-Network-Distribution/main/repo/lib/org/ow2/asm/asm/9.1/asm-9.1.jar"
+                "url": "https://github.com/karu724/Lia-Network-Distribution/blob/main/repo/lib/org/ow2/asm/asm/9.1/asm-9.1.jar"
               }
             },
             {
@@ -147,7 +147,7 @@
               "artifact": {
                 "size": 72641,
                 "MD5": "81cc6b8f5ce8f2767d39fbd4b6c37a6a",
-                "url": "https://raw.githubusercontent.com/karu724/Lia-Network-Distribution/main/repo/lib/org/ow2/asm/asm-commons/9.1/asm-commons-9.1.jar"
+                "url": "https://github.com/karu724/Lia-Network-Distribution/blob/main/repo/lib/org/ow2/asm/asm-commons/9.1/asm-commons-9.1.jar"
               }
             },
             {
@@ -157,7 +157,7 @@
               "artifact": {
                 "size": 52662,
                 "MD5": "c2536add9ebcfa8066fcfb0dbe865879",
-                "url": "https://raw.githubusercontent.com/karu724/Lia-Network-Distribution/main/repo/lib/org/ow2/asm/asm-tree/9.1/asm-tree-9.1.jar"
+                "url": "https://github.com/karu724/Lia-Network-Distribution/blob/main/repo/lib/org/ow2/asm/asm-tree/9.1/asm-tree-9.1.jar"
               }
             },
             {
@@ -167,7 +167,7 @@
               "artifact": {
                 "size": 84679,
                 "MD5": "2f1a28f6b0f3e02b17d38a0f657a1527",
-                "url": "https://raw.githubusercontent.com/karu724/Lia-Network-Distribution/main/repo/lib/org/ow2/asm/asm-util/9.1/asm-util-9.1.jar"
+                "url": "https://github.com/karu724/Lia-Network-Distribution/blob/main/repo/lib/org/ow2/asm/asm-util/9.1/asm-util-9.1.jar"
               }
             },
             {
@@ -177,7 +177,7 @@
               "artifact": {
                 "size": 34257,
                 "MD5": "f0e82941173b6049c03e8214ace70ecd",
-                "url": "https://raw.githubusercontent.com/karu724/Lia-Network-Distribution/main/repo/lib/org/ow2/asm/asm-analysis/9.1/asm-analysis-9.1.jar"
+                "url": "https://github.com/karu724/Lia-Network-Distribution/blob/main/repo/lib/org/ow2/asm/asm-analysis/9.1/asm-analysis-9.1.jar"
               }
             },
             {
@@ -187,7 +187,7 @@
               "artifact": {
                 "size": 77756,
                 "MD5": "f0d3533f9437ba4428eaee9f28f7ecd9",
-                "url": "https://raw.githubusercontent.com/karu724/Lia-Network-Distribution/main/repo/lib/net/minecraftforge/accesstransformers/8.0.4/accesstransformers-8.0.4.jar"
+                "url": "https://github.com/karu724/Lia-Network-Distribution/blob/main/repo/lib/net/minecraftforge/accesstransformers/8.0.4/accesstransformers-8.0.4.jar"
               }
             },
             {
@@ -197,7 +197,7 @@
               "artifact": {
                 "size": 337868,
                 "MD5": "0dcc4b860d5d8d2852ab94d58c56ca2d",
-                "url": "https://raw.githubusercontent.com/karu724/Lia-Network-Distribution/main/repo/lib/org/antlr/antlr4-runtime/4.9.1/antlr4-runtime-4.9.1.jar"
+                "url": "https://github.com/karu724/Lia-Network-Distribution/blob/main/repo/lib/org/antlr/antlr4-runtime/4.9.1/antlr4-runtime-4.9.1.jar"
               }
             },
             {
@@ -207,7 +207,7 @@
               "artifact": {
                 "size": 42838,
                 "MD5": "c8b735cdfe9975a569626d72ad40377f",
-                "url": "https://raw.githubusercontent.com/karu724/Lia-Network-Distribution/main/repo/lib/net/minecraftforge/eventbus/5.0.3/eventbus-5.0.3.jar"
+                "url": "https://github.com/karu724/Lia-Network-Distribution/blob/main/repo/lib/net/minecraftforge/eventbus/5.0.3/eventbus-5.0.3.jar"
               }
             },
             {
@@ -217,7 +217,7 @@
               "artifact": {
                 "size": 21869,
                 "MD5": "b4b4b87397040701bd74ad6cbb784954",
-                "url": "https://raw.githubusercontent.com/karu724/Lia-Network-Distribution/main/repo/lib/net/minecraftforge/forgespi/4.0.10/forgespi-4.0.10.jar"
+                "url": "https://github.com/karu724/Lia-Network-Distribution/blob/main/repo/lib/net/minecraftforge/forgespi/4.0.10/forgespi-4.0.10.jar"
               }
             },
             {
@@ -227,7 +227,7 @@
               "artifact": {
                 "size": 24199,
                 "MD5": "8c590051c5d65e098ca7c2e3ddf803a8",
-                "url": "https://raw.githubusercontent.com/karu724/Lia-Network-Distribution/main/repo/lib/net/minecraftforge/coremods/5.0.1/coremods-5.0.1.jar"
+                "url": "https://github.com/karu724/Lia-Network-Distribution/blob/main/repo/lib/net/minecraftforge/coremods/5.0.1/coremods-5.0.1.jar"
               }
             },
             {
@@ -237,7 +237,7 @@
               "artifact": {
                 "size": 127169,
                 "MD5": "81c9715e3ad065953b03eca050aae89c",
-                "url": "https://raw.githubusercontent.com/karu724/Lia-Network-Distribution/main/repo/lib/cpw/mods/modlauncher/9.0.7/modlauncher-9.0.7.jar"
+                "url": "https://github.com/karu724/Lia-Network-Distribution/blob/main/repo/lib/cpw/mods/modlauncher/9.0.7/modlauncher-9.0.7.jar"
               }
             },
             {
@@ -247,7 +247,7 @@
               "artifact": {
                 "size": 2834,
                 "MD5": "2d1016ebe4c1a63dd50a59d26bd12db1",
-                "url": "https://raw.githubusercontent.com/karu724/Lia-Network-Distribution/main/repo/lib/net/minecraftforge/unsafe/0.2.0/unsafe-0.2.0.jar"
+                "url": "https://github.com/karu724/Lia-Network-Distribution/blob/main/repo/lib/net/minecraftforge/unsafe/0.2.0/unsafe-0.2.0.jar"
               }
             },
             {
@@ -257,7 +257,7 @@
               "artifact": {
                 "size": 199091,
                 "MD5": "093b0ca357d3f8b922170b8d7f43948c",
-                "url": "https://raw.githubusercontent.com/karu724/Lia-Network-Distribution/main/repo/lib/com/electronwill/night-config/core/3.6.3/core-3.6.3.jar"
+                "url": "https://github.com/karu724/Lia-Network-Distribution/blob/main/repo/lib/com/electronwill/night-config/core/3.6.3/core-3.6.3.jar"
               }
             },
             {
@@ -267,7 +267,7 @@
               "artifact": {
                 "size": 31288,
                 "MD5": "615b8e62371c536f876764591990118d",
-                "url": "https://raw.githubusercontent.com/karu724/Lia-Network-Distribution/main/repo/lib/com/electronwill/night-config/toml/3.6.3/toml-3.6.3.jar"
+                "url": "https://github.com/karu724/Lia-Network-Distribution/blob/main/repo/lib/com/electronwill/night-config/toml/3.6.3/toml-3.6.3.jar"
               }
             },
             {
@@ -277,7 +277,7 @@
               "artifact": {
                 "size": 57824,
                 "MD5": "b83c1943a0783f3f81d4cd4c83c363e1",
-                "url": "https://raw.githubusercontent.com/karu724/Lia-Network-Distribution/main/repo/lib/org/apache/maven/maven-artifact/3.6.3/maven-artifact-3.6.3.jar"
+                "url": "https://github.com/karu724/Lia-Network-Distribution/blob/main/repo/lib/org/apache/maven/maven-artifact/3.6.3/maven-artifact-3.6.3.jar"
               }
             },
             {
@@ -287,7 +287,7 @@
               "artifact": {
                 "size": 501879,
                 "MD5": "540b1256d887a6993ecbef23371a3302",
-                "url": "https://raw.githubusercontent.com/karu724/Lia-Network-Distribution/main/repo/lib/org/apache/commons/commons-lang3/3.8.1/commons-lang3-3.8.1.jar"
+                "url": "https://github.com/karu724/Lia-Network-Distribution/blob/main/repo/lib/org/apache/commons/commons-lang3/3.8.1/commons-lang3-3.8.1.jar"
               }
             },
             {
@@ -297,7 +297,7 @@
               "artifact": {
                 "size": 15425,
                 "MD5": "ee4596e1413cc1a5e080c971d6064753",
-                "url": "https://raw.githubusercontent.com/karu724/Lia-Network-Distribution/main/repo/lib/net/jodah/typetools/0.8.3/typetools-0.8.3.jar"
+                "url": "https://github.com/karu724/Lia-Network-Distribution/blob/main/repo/lib/net/jodah/typetools/0.8.3/typetools-0.8.3.jar"
               }
             },
             {
@@ -307,7 +307,7 @@
               "artifact": {
                 "size": 301804,
                 "MD5": "a9ccfa7e3382dd2b9e0647a43d8286d7",
-                "url": "https://raw.githubusercontent.com/karu724/Lia-Network-Distribution/main/repo/lib/org/apache/logging/log4j/log4j-api/2.15.0/log4j-api-2.15.0.jar"
+                "url": "https://github.com/karu724/Lia-Network-Distribution/blob/main/repo/lib/org/apache/logging/log4j/log4j-api/2.15.0/log4j-api-2.15.0.jar"
               }
             },
             {
@@ -317,7 +317,7 @@
               "artifact": {
                 "size": 1789769,
                 "MD5": "81e0433ae00602c0e4d00424d213b0ab",
-                "url": "https://raw.githubusercontent.com/karu724/Lia-Network-Distribution/main/repo/lib/org/apache/logging/log4j/log4j-core/2.15.0/log4j-core-2.15.0.jar"
+                "url": "https://github.com/karu724/Lia-Network-Distribution/blob/main/repo/lib/org/apache/logging/log4j/log4j-core/2.15.0/log4j-core-2.15.0.jar"
               }
             },
             {
@@ -327,7 +327,7 @@
               "artifact": {
                 "size": 21223,
                 "MD5": "196442f1bdde4dbb0f576eed616e21b0",
-                "url": "https://raw.githubusercontent.com/karu724/Lia-Network-Distribution/main/repo/lib/org/apache/logging/log4j/log4j-slf4j18-impl/2.15.0/log4j-slf4j18-impl-2.15.0.jar"
+                "url": "https://github.com/karu724/Lia-Network-Distribution/blob/main/repo/lib/org/apache/logging/log4j/log4j-slf4j18-impl/2.15.0/log4j-slf4j18-impl-2.15.0.jar"
               }
             },
             {
@@ -337,7 +337,7 @@
               "artifact": {
                 "size": 15977,
                 "MD5": "679363fa893293791e55a21f81342f87",
-                "url": "https://raw.githubusercontent.com/karu724/Lia-Network-Distribution/main/repo/lib/net/minecrell/terminalconsoleappender/1.2.0/terminalconsoleappender-1.2.0.jar"
+                "url": "https://github.com/karu724/Lia-Network-Distribution/blob/main/repo/lib/net/minecrell/terminalconsoleappender/1.2.0/terminalconsoleappender-1.2.0.jar"
               }
             },
             {
@@ -347,7 +347,7 @@
               "artifact": {
                 "size": 150765,
                 "MD5": "a2e7b012cd9802f83321187409174a94",
-                "url": "https://raw.githubusercontent.com/karu724/Lia-Network-Distribution/main/repo/lib/org/jline/jline-reader/3.12.1/jline-reader-3.12.1.jar"
+                "url": "https://github.com/karu724/Lia-Network-Distribution/blob/main/repo/lib/org/jline/jline-reader/3.12.1/jline-reader-3.12.1.jar"
               }
             },
             {
@@ -357,7 +357,7 @@
               "artifact": {
                 "size": 211712,
                 "MD5": "3c52be5ab5e3847be6e62269de924cb0",
-                "url": "https://raw.githubusercontent.com/karu724/Lia-Network-Distribution/main/repo/lib/org/jline/jline-terminal/3.12.1/jline-terminal-3.12.1.jar"
+                "url": "https://github.com/karu724/Lia-Network-Distribution/blob/main/repo/lib/org/jline/jline-terminal/3.12.1/jline-terminal-3.12.1.jar"
               }
             },
             {
@@ -367,7 +367,7 @@
               "artifact": {
                 "size": 78146,
                 "MD5": "eb0d9dffe9b0eddead68fe678be76c49",
-                "url": "https://raw.githubusercontent.com/karu724/Lia-Network-Distribution/main/repo/lib/net/sf/jopt-simple/jopt-simple/5.0.4/jopt-simple-5.0.4.jar"
+                "url": "https://github.com/karu724/Lia-Network-Distribution/blob/main/repo/lib/net/sf/jopt-simple/jopt-simple/5.0.4/jopt-simple-5.0.4.jar"
               }
             },
             {
@@ -377,7 +377,7 @@
               "artifact": {
                 "size": 1069391,
                 "MD5": "25fbb8ff965e88cc2252c99be0cf5cbb",
-                "url": "https://raw.githubusercontent.com/karu724/Lia-Network-Distribution/main/repo/lib/org/spongepowered/mixin/0.8.4/mixin-0.8.4.jar"
+                "url": "https://github.com/karu724/Lia-Network-Distribution/blob/main/repo/lib/org/spongepowered/mixin/0.8.4/mixin-0.8.4.jar"
               }
             },
             {
@@ -387,7 +387,7 @@
               "artifact": {
                 "size": 2167288,
                 "MD5": "91e98c20afa1090c344229ce28b4c53f",
-                "url": "https://raw.githubusercontent.com/karu724/Lia-Network-Distribution/main/repo/lib/org/openjdk/nashorn/nashorn-core/15.3/nashorn-core-15.3.jar"
+                "url": "https://github.com/karu724/Lia-Network-Distribution/blob/main/repo/lib/org/openjdk/nashorn/nashorn-core/15.3/nashorn-core-15.3.jar"
               }
             },
             {
@@ -397,7 +397,7 @@
               "artifact": {
                 "size": 2521113,
                 "MD5": "ddc91fd850fa6177c91aab5d4e4d1fa6",
-                "url": "https://raw.githubusercontent.com/karu724/Lia-Network-Distribution/main/repo/lib/com/google/guava/guava/21.0/guava-21.0.jar"
+                "url": "https://github.com/karu724/Lia-Network-Distribution/blob/main/repo/lib/com/google/guava/guava/21.0/guava-21.0.jar"
               }
             },
             {
@@ -407,7 +407,7 @@
               "artifact": {
                 "size": 231952,
                 "MD5": "a42f1f5bfa4e6f123ddcab3de7e0ff81",
-                "url": "https://raw.githubusercontent.com/karu724/Lia-Network-Distribution/main/repo/lib/com/google/code/gson/gson/2.8.0/gson-2.8.0.jar"
+                "url": "https://github.com/karu724/Lia-Network-Distribution/blob/main/repo/lib/com/google/code/gson/gson/2.8.0/gson-2.8.0.jar"
               }
             },
             {
@@ -417,7 +417,7 @@
               "artifact": {
                 "size": 7542,
                 "MD5": "8da451508e79cc600637f7bdd68610af",
-                "url": "https://raw.githubusercontent.com/karu724/Lia-Network-Distribution/main/repo/lib/cpw/mods/bootstraplauncher/0.1.17/bootstraplauncher-0.1.17.jar"
+                "url": "https://github.com/karu724/Lia-Network-Distribution/blob/main/repo/lib/cpw/mods/bootstraplauncher/0.1.17/bootstraplauncher-0.1.17.jar"
               }
             },
             {
@@ -427,7 +427,7 @@
               "artifact": {
                 "size": 235478,
                 "MD5": "3da7d368acd99ca0e92e7ad60abae857",
-                "url": "https://raw.githubusercontent.com/karu724/Lia-Network-Distribution/main/repo/lib/net/minecraftforge/fmlloader/1.17.1-37.1.1/fmlloader-1.17.1-37.1.1.jar"
+                "url": "https://github.com/karu724/Lia-Network-Distribution/blob/main/repo/lib/net/minecraftforge/fmlloader/1.17.1-37.1.1/fmlloader-1.17.1-37.1.1.jar"
               }
             }
           ]
@@ -438,7 +438,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 56962,
-            "url": "https://raw.githubusercontent.com/karu724/Lia-Network-Distribution/main/servers/Ria-Island-1.17.1/forgemods/optionalon/koreanchat-creo-1.17.1-2.0.jar",
+            "url": "https://github.com/karu724/Lia-Network-Distribution/blob/main/servers/Ria-Island-1.17.1/forgemods/optionalon/koreanchat-creo-1.17.1-2.0.jar",
             "MD5": "dce464f1f5f289a0f708c6fc7fb2c27b"
           },
           "required": {
@@ -451,7 +451,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 6344306,
-            "url": "https://raw.githubusercontent.com/karu724/Lia-Network-Distribution/main/servers/Ria-Island-1.17.1/forgemods/optionalon/OptiFine_1.17.1_HD_U_H1.jar",
+            "url": "https://github.com/karu724/Lia-Network-Distribution/blob/main/servers/Ria-Island-1.17.1/forgemods/optionalon/OptiFine_1.17.1_HD_U_H1.jar",
             "MD5": "ce4d0bc85481fc8e8ba10ab0106c9a5f"
           },
           "required": {
@@ -471,9 +471,9 @@
       "discord": {
         "shortId": "리아 네트워크 - RPG+국가전쟁",
         "largeImageText": "몬스터 잡는 중",
-        "largeImageKey": "main.png>"
+        "largeImageKey": "main.png"
       },
-      "mainServer": false,
+      "mainServer": true,
       "autoconnect": true,
       "modules": [
         {
@@ -483,7 +483,7 @@
           "artifact": {
             "size": 4466108,
             "MD5": "fda01cd3cae80c2c6348ac3fc26e0af8",
-            "url": "https://raw.githubusercontent.com/karu724/Lia-Network-Distribution/main/repo/lib/net/minecraftforge/forge/1.12.2-14.23.5.2859/forge-1.12.2-14.23.5.2859-universal.jar"
+            "url": "https://github.com/karu724/Lia-Network-Distribution/blob/main/repo/lib/net/minecraftforge/forge/1.12.2-14.23.5.2859/forge-1.12.2-14.23.5.2859-universal.jar"
           },
           "subModules": [
             {
@@ -493,7 +493,7 @@
               "artifact": {
                 "size": 12345,
                 "MD5": "1959bb357e54a9666dd80d744b524639",
-                "url": "https://raw.githubusercontent.com/karu724/Lia-Network-Distribution/main/repo/versions/1.12.2-forge-14.23.5.2859/1.12.2-forge-14.23.5.2859.json"
+                "url": "https://github.com/karu724/Lia-Network-Distribution/blob/main/repo/versions/1.12.2-forge-14.23.5.2859/1.12.2-forge-14.23.5.2859.json"
               }
             },
             {
@@ -503,7 +503,7 @@
               "artifact": {
                 "size": 387903,
                 "MD5": "fe5f20404ccdee9769ef05dc4b47ba98",
-                "url": "https://raw.githubusercontent.com/karu724/Lia-Network-Distribution/main/repo/lib/org/ow2/asm/asm-debug-all/5.2/asm-debug-all-5.2.jar"
+                "url": "https://github.com/karu724/Lia-Network-Distribution/blob/main/repo/lib/org/ow2/asm/asm-debug-all/5.2/asm-debug-all-5.2.jar"
               }
             },
             {
@@ -513,7 +513,7 @@
               "artifact": {
                 "size": 32999,
                 "MD5": "934b2d91c7c5be4a49577c9e6b40e8da",
-                "url": "https://raw.githubusercontent.com/karu724/Lia-Network-Distribution/main/repo/lib/net/minecraft/launchwrapper/1.12/launchwrapper-1.12.jar"
+                "url": "https://github.com/karu724/Lia-Network-Distribution/blob/main/repo/lib/net/minecraft/launchwrapper/1.12/launchwrapper-1.12.jar"
               }
             },
             {
@@ -523,7 +523,7 @@
               "artifact": {
                 "size": 614590,
                 "MD5": "4c20d2879ed2bd75a0771ce29e89f6b0",
-                "url": "https://raw.githubusercontent.com/karu724/Lia-Network-Distribution/main/repo/lib/org/jline/jline/3.5.1/jline-3.5.1.jar"
+                "url": "https://github.com/karu724/Lia-Network-Distribution/blob/main/repo/lib/org/jline/jline/3.5.1/jline-3.5.1.jar"
               }
             },
             {
@@ -533,7 +533,7 @@
               "artifact": {
                 "size": 2514991,
                 "MD5": "541440ca0819ebada47d6d1a8b3ee9e1",
-                "url": "https://raw.githubusercontent.com/karu724/Lia-Network-Distribution/main/repo/lib/com/typesafe/akka/akka-actor_2.11/2.3.3/akka-actor_2.11-2.3.3.jar"
+                "url": "https://github.com/karu724/Lia-Network-Distribution/blob/main/repo/lib/com/typesafe/akka/akka-actor_2.11/2.3.3/akka-actor_2.11-2.3.3.jar"
               }
             },
             {
@@ -543,7 +543,7 @@
               "artifact": {
                 "size": 219554,
                 "MD5": "3aaf3c6e76a68e732c17d4a7e9877d81",
-                "url": "https://raw.githubusercontent.com/karu724/Lia-Network-Distribution/main/repo/lib/com/typesafe/config/1.2.1/config-1.2.1.jar"
+                "url": "https://github.com/karu724/Lia-Network-Distribution/blob/main/repo/lib/com/typesafe/config/1.2.1/config-1.2.1.jar"
               }
             },
             {
@@ -553,7 +553,7 @@
               "artifact": {
                 "size": 58018,
                 "MD5": "f5e79398daa1806f8b17311a3c782723",
-                "url": "https://raw.githubusercontent.com/karu724/Lia-Network-Distribution/main/repo/lib/org/scala-lang/scala-actors-migration_2.11/1.1.0/scala-actors-migration_2.11-1.1.0.jar"
+                "url": "https://github.com/karu724/Lia-Network-Distribution/blob/main/repo/lib/org/scala-lang/scala-actors-migration_2.11/1.1.0/scala-actors-migration_2.11-1.1.0.jar"
               }
             },
             {
@@ -563,7 +563,7 @@
               "artifact": {
                 "size": 13449765,
                 "MD5": "06030143bf86ca896fb6ccfd679b5760",
-                "url": "https://raw.githubusercontent.com/karu724/Lia-Network-Distribution/main/repo/lib/org/scala-lang/scala-compiler/2.11.1/scala-compiler-2.11.1.jar"
+                "url": "https://github.com/karu724/Lia-Network-Distribution/blob/main/repo/lib/org/scala-lang/scala-compiler/2.11.1/scala-compiler-2.11.1.jar"
               }
             },
             {
@@ -573,7 +573,7 @@
               "artifact": {
                 "size": 25365,
                 "MD5": "004d7007abbcee858d3ca2c3ccbcbaab",
-                "url": "https://raw.githubusercontent.com/karu724/Lia-Network-Distribution/main/repo/lib/org/scala-lang/plugins/scala-continuations-library_2.11/1.0.2_mc/scala-continuations-library_2.11-1.0.2_mc.jar"
+                "url": "https://github.com/karu724/Lia-Network-Distribution/blob/main/repo/lib/org/scala-lang/plugins/scala-continuations-library_2.11/1.0.2_mc/scala-continuations-library_2.11-1.0.2_mc.jar"
               }
             },
             {
@@ -583,7 +583,7 @@
               "artifact": {
                 "size": 206575,
                 "MD5": "359c4a6743a082c689039482eed78670",
-                "url": "https://raw.githubusercontent.com/karu724/Lia-Network-Distribution/main/repo/lib/org/scala-lang/plugins/scala-continuations-plugin_2.11.1/1.0.2_mc/scala-continuations-plugin_2.11.1-1.0.2_mc.jar"
+                "url": "https://github.com/karu724/Lia-Network-Distribution/blob/main/repo/lib/org/scala-lang/plugins/scala-continuations-plugin_2.11.1/1.0.2_mc/scala-continuations-plugin_2.11.1-1.0.2_mc.jar"
               }
             },
             {
@@ -593,7 +593,7 @@
               "artifact": {
                 "size": 5538130,
                 "MD5": "1d88f665219e6006c5dd82d71c525c0f",
-                "url": "https://raw.githubusercontent.com/karu724/Lia-Network-Distribution/main/repo/lib/org/scala-lang/scala-library/2.11.1/scala-library-2.11.1.jar"
+                "url": "https://github.com/karu724/Lia-Network-Distribution/blob/main/repo/lib/org/scala-lang/scala-library/2.11.1/scala-library-2.11.1.jar"
               }
             },
             {
@@ -603,7 +603,7 @@
               "artifact": {
                 "size": 419701,
                 "MD5": "4e694499c965af4a02599c99d4f0b196",
-                "url": "https://raw.githubusercontent.com/karu724/Lia-Network-Distribution/main/repo/lib/org/scala-lang/scala-parser-combinators_2.11/1.0.1/scala-parser-combinators_2.11-1.0.1.jar"
+                "url": "https://github.com/karu724/Lia-Network-Distribution/blob/main/repo/lib/org/scala-lang/scala-parser-combinators_2.11/1.0.1/scala-parser-combinators_2.11-1.0.1.jar"
               }
             },
             {
@@ -613,7 +613,7 @@
               "artifact": {
                 "size": 4372892,
                 "MD5": "7878fac044e4e4b576bb35a77ccc34fc",
-                "url": "https://raw.githubusercontent.com/karu724/Lia-Network-Distribution/main/repo/lib/org/scala-lang/scala-reflect/2.11.1/scala-reflect-2.11.1.jar"
+                "url": "https://github.com/karu724/Lia-Network-Distribution/blob/main/repo/lib/org/scala-lang/scala-reflect/2.11.1/scala-reflect-2.11.1.jar"
               }
             },
             {
@@ -623,7 +623,7 @@
               "artifact": {
                 "size": 726500,
                 "MD5": "1009d69e4948045383f2a7a334348af5",
-                "url": "https://raw.githubusercontent.com/karu724/Lia-Network-Distribution/main/repo/lib/org/scala-lang/scala-swing_2.11/1.0.1/scala-swing_2.11-1.0.1.jar"
+                "url": "https://github.com/karu724/Lia-Network-Distribution/blob/main/repo/lib/org/scala-lang/scala-swing_2.11/1.0.1/scala-swing_2.11-1.0.1.jar"
               }
             },
             {
@@ -633,7 +633,7 @@
               "artifact": {
                 "size": 648679,
                 "MD5": "c2d7e66495afe14545c31b21e99879ef",
-                "url": "https://raw.githubusercontent.com/karu724/Lia-Network-Distribution/main/repo/lib/org/scala-lang/scala-xml_2.11/1.0.2/scala-xml_2.11-1.0.2.jar"
+                "url": "https://github.com/karu724/Lia-Network-Distribution/blob/main/repo/lib/org/scala-lang/scala-xml_2.11/1.0.2/scala-xml_2.11-1.0.2.jar"
               }
             },
             {
@@ -643,7 +643,7 @@
               "artifact": {
                 "size": 5762,
                 "MD5": "a3e3c3186e41c4a1a3027ba2bb23cdc6",
-                "url": "https://raw.githubusercontent.com/karu724/Lia-Network-Distribution/main/repo/lib/lzma/lzma/0.0.1/lzma-0.0.1.jar"
+                "url": "https://github.com/karu724/Lia-Network-Distribution/blob/main/repo/lib/lzma/lzma/0.0.1/lzma-0.0.1.jar"
               }
             },
             {
@@ -653,7 +653,7 @@
               "artifact": {
                 "size": 318956,
                 "MD5": "e5d2b7f46c4800a32f62ce75676a5710",
-                "url": "https://raw.githubusercontent.com/karu724/Lia-Network-Distribution/main/repo/lib/java3d/vecmath/1.5.2/vecmath-1.5.2.jar"
+                "url": "https://github.com/karu724/Lia-Network-Distribution/blob/main/repo/lib/java3d/vecmath/1.5.2/vecmath-1.5.2.jar"
               }
             },
             {
@@ -663,7 +663,7 @@
               "artifact": {
                 "size": 2523218,
                 "MD5": "8fc4d4e0129244f9fd39650c5f30feb2",
-                "url": "https://raw.githubusercontent.com/karu724/Lia-Network-Distribution/main/repo/lib/net/sf/trove4j/trove4j/3.0.3/trove4j-3.0.3.jar"
+                "url": "https://github.com/karu724/Lia-Network-Distribution/blob/main/repo/lib/net/sf/trove4j/trove4j/3.0.3/trove4j-3.0.3.jar"
               }
             },
             {
@@ -673,7 +673,7 @@
               "artifact": {
                 "size": 54961,
                 "MD5": "7741ebf29690ee7d9dde9cf4376347fc",
-                "url": "https://raw.githubusercontent.com/karu724/Lia-Network-Distribution/main/repo/lib/org/apache/maven/maven-artifact/3.5.3/maven-artifact-3.5.3.jar"
+                "url": "https://github.com/karu724/Lia-Network-Distribution/blob/main/repo/lib/org/apache/maven/maven-artifact/3.5.3/maven-artifact-3.5.3.jar"
               }
             },
             {
@@ -683,7 +683,7 @@
               "artifact": {
                 "size": 78175,
                 "MD5": "0a5ec84e23df9d7cfb4063bc55f2744c",
-                "url": "https://raw.githubusercontent.com/karu724/Lia-Network-Distribution/main/repo/lib/net/sf/jopt-simple/jopt-simple/5.0.3/jopt-simple-5.0.3.jar"
+                "url": "https://github.com/karu724/Lia-Network-Distribution/blob/main/repo/lib/net/sf/jopt-simple/jopt-simple/5.0.3/jopt-simple-5.0.3.jar"
               }
             },
             {
@@ -693,7 +693,7 @@
               "artifact": {
                 "size": 301804,
                 "MD5": "a9ccfa7e3382dd2b9e0647a43d8286d7",
-                "url": "https://raw.githubusercontent.com/karu724/Lia-Network-Distribution/main/repo/lib/org/apache/logging/log4j/log4j-api/2.15.0/log4j-api-2.15.0.jar"
+                "url": "https://github.com/karu724/Lia-Network-Distribution/blob/main/repo/lib/org/apache/logging/log4j/log4j-api/2.15.0/log4j-api-2.15.0.jar"
               }
             },
             {
@@ -703,7 +703,7 @@
               "artifact": {
                 "size": 1789769,
                 "MD5": "81e0433ae00602c0e4d00424d213b0ab",
-                "url": "https://raw.githubusercontent.com/karu724/Lia-Network-Distribution/main/repo/lib/org/apache/logging/log4j/log4j-core/2.15.0/log4j-core-2.15.0.jar"
+                "url": "https://github.com/karu724/Lia-Network-Distribution/blob/main/repo/lib/org/apache/logging/log4j/log4j-core/2.15.0/log4j-core-2.15.0.jar"
               }
             },
             {
@@ -713,7 +713,7 @@
               "artifact": {
                 "size": 21223,
                 "MD5": "196442f1bdde4dbb0f576eed616e21b0",
-                "url": "https://raw.githubusercontent.com/karu724/Lia-Network-Distribution/main/repo/lib/org/apache/logging/log4j/log4j-slf4j18-impl/2.15.0/log4j-slf4j18-impl-2.15.0.jar"
+                "url": "https://github.com/karu724/Lia-Network-Distribution/blob/main/repo/lib/org/apache/logging/log4j/log4j-slf4j18-impl/2.15.0/log4j-slf4j18-impl-2.15.0.jar"
               }
             }
           ]
@@ -724,7 +724,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 285416,
-            "url": "https://raw.githubusercontent.com/karu724/Lia-Network-Distribution/main/servers/Ria-Network-1.12.2/forgemods/required/1.12.2DamageIndicatorsMod-3.5.1.jar",
+            "url": "https://github.com/karu724/Lia-Network-Distribution/blob/main/servers/Ria-Network-1.12.2/forgemods/required/1.12.2DamageIndicatorsMod-3.5.1.jar",
             "MD5": "09dd0cd435c1185b796b3557cbce6cdc"
           }
         },
@@ -734,7 +734,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 30763,
-            "url": "https://raw.githubusercontent.com/karu724/Lia-Network-Distribution/main/servers/Ria-Network-1.12.2/forgemods/optionalon/koreanchat-creo-1.12-1.9.jar",
+            "url": "https://github.com/karu724/Lia-Network-Distribution/blob/main/servers/Ria-Network-1.12.2/forgemods/optionalon/koreanchat-creo-1.12-1.9.jar",
             "MD5": "91492de16021a4f7018eb5d523f45fc2"
           },
           "required": {
@@ -747,7 +747,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 18527,
-            "url": "https://raw.githubusercontent.com/karu724/Lia-Network-Distribution/main/servers/Ria-Network-1.12.2/forgemods/required/Neat+1.4-17.jar",
+            "url": "https://github.com/karu724/Lia-Network-Distribution/blob/main/servers/Ria-Network-1.12.2/forgemods/required/Neat+1.4-17.jar",
             "MD5": "c371deab2490ecd6a2689eed09302d23"
           }
         },
@@ -757,7 +757,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 2669107,
-            "url": "https://raw.githubusercontent.com/karu724/Lia-Network-Distribution/main/servers/Ria-Network-1.12.2/forgemods/optionalon/OptiFine_1.12.2_HD_U_G5.jar",
+            "url": "https://github.com/karu724/Lia-Network-Distribution/blob/main/servers/Ria-Network-1.12.2/forgemods/optionalon/OptiFine_1.12.2_HD_U_G5.jar",
             "MD5": "54e561e441192cf009803ae95873c5d0"
           },
           "required": {
@@ -770,7 +770,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 283623,
-            "url": "https://raw.githubusercontent.com/karu724/Lia-Network-Distribution/main/servers/Ria-Network-1.12.2/forgemods/optionalon/SmoothFont-mc1.12.2-2.1.3.jar",
+            "url": "https://github.com/karu724/Lia-Network-Distribution/blob/main/servers/Ria-Network-1.12.2/forgemods/optionalon/SmoothFont-mc1.12.2-2.1.3.jar",
             "MD5": "9d42d453c80363808dc4098ebb05fa79"
           },
           "required": {
@@ -802,7 +802,7 @@
           "artifact": {
             "size": 4466108,
             "MD5": "fda01cd3cae80c2c6348ac3fc26e0af8",
-            "url": "https://raw.githubusercontent.com/karu724/Lia-Network-Distribution/main/repo/lib/net/minecraftforge/forge/1.12.2-14.23.5.2859/forge-1.12.2-14.23.5.2859-universal.jar"
+            "url": "https://github.com/karu724/Lia-Network-Distribution/blob/main/repo/lib/net/minecraftforge/forge/1.12.2-14.23.5.2859/forge-1.12.2-14.23.5.2859-universal.jar"
           },
           "subModules": [
             {
@@ -812,7 +812,7 @@
               "artifact": {
                 "size": 12345,
                 "MD5": "1959bb357e54a9666dd80d744b524639",
-                "url": "https://raw.githubusercontent.com/karu724/Lia-Network-Distribution/main/repo/versions/1.12.2-forge-14.23.5.2859/1.12.2-forge-14.23.5.2859.json"
+                "url": "https://github.com/karu724/Lia-Network-Distribution/blob/main/repo/versions/1.12.2-forge-14.23.5.2859/1.12.2-forge-14.23.5.2859.json"
               }
             },
             {
@@ -822,7 +822,7 @@
               "artifact": {
                 "size": 387903,
                 "MD5": "fe5f20404ccdee9769ef05dc4b47ba98",
-                "url": "https://raw.githubusercontent.com/karu724/Lia-Network-Distribution/main/repo/lib/org/ow2/asm/asm-debug-all/5.2/asm-debug-all-5.2.jar"
+                "url": "https://github.com/karu724/Lia-Network-Distribution/blob/main/repo/lib/org/ow2/asm/asm-debug-all/5.2/asm-debug-all-5.2.jar"
               }
             },
             {
@@ -832,7 +832,7 @@
               "artifact": {
                 "size": 32999,
                 "MD5": "934b2d91c7c5be4a49577c9e6b40e8da",
-                "url": "https://raw.githubusercontent.com/karu724/Lia-Network-Distribution/main/repo/lib/net/minecraft/launchwrapper/1.12/launchwrapper-1.12.jar"
+                "url": "https://github.com/karu724/Lia-Network-Distribution/blob/main/repo/lib/net/minecraft/launchwrapper/1.12/launchwrapper-1.12.jar"
               }
             },
             {
@@ -842,7 +842,7 @@
               "artifact": {
                 "size": 614590,
                 "MD5": "4c20d2879ed2bd75a0771ce29e89f6b0",
-                "url": "https://raw.githubusercontent.com/karu724/Lia-Network-Distribution/main/repo/lib/org/jline/jline/3.5.1/jline-3.5.1.jar"
+                "url": "https://github.com/karu724/Lia-Network-Distribution/blob/main/repo/lib/org/jline/jline/3.5.1/jline-3.5.1.jar"
               }
             },
             {
@@ -852,7 +852,7 @@
               "artifact": {
                 "size": 2514991,
                 "MD5": "541440ca0819ebada47d6d1a8b3ee9e1",
-                "url": "https://raw.githubusercontent.com/karu724/Lia-Network-Distribution/main/repo/lib/com/typesafe/akka/akka-actor_2.11/2.3.3/akka-actor_2.11-2.3.3.jar"
+                "url": "https://github.com/karu724/Lia-Network-Distribution/blob/main/repo/lib/com/typesafe/akka/akka-actor_2.11/2.3.3/akka-actor_2.11-2.3.3.jar"
               }
             },
             {
@@ -862,7 +862,7 @@
               "artifact": {
                 "size": 219554,
                 "MD5": "3aaf3c6e76a68e732c17d4a7e9877d81",
-                "url": "https://raw.githubusercontent.com/karu724/Lia-Network-Distribution/main/repo/lib/com/typesafe/config/1.2.1/config-1.2.1.jar"
+                "url": "https://github.com/karu724/Lia-Network-Distribution/blob/main/repo/lib/com/typesafe/config/1.2.1/config-1.2.1.jar"
               }
             },
             {
@@ -872,7 +872,7 @@
               "artifact": {
                 "size": 58018,
                 "MD5": "f5e79398daa1806f8b17311a3c782723",
-                "url": "https://raw.githubusercontent.com/karu724/Lia-Network-Distribution/main/repo/lib/org/scala-lang/scala-actors-migration_2.11/1.1.0/scala-actors-migration_2.11-1.1.0.jar"
+                "url": "https://github.com/karu724/Lia-Network-Distribution/blob/main/repo/lib/org/scala-lang/scala-actors-migration_2.11/1.1.0/scala-actors-migration_2.11-1.1.0.jar"
               }
             },
             {
@@ -882,7 +882,7 @@
               "artifact": {
                 "size": 13449765,
                 "MD5": "06030143bf86ca896fb6ccfd679b5760",
-                "url": "https://raw.githubusercontent.com/karu724/Lia-Network-Distribution/main/repo/lib/org/scala-lang/scala-compiler/2.11.1/scala-compiler-2.11.1.jar"
+                "url": "https://github.com/karu724/Lia-Network-Distribution/blob/main/repo/lib/org/scala-lang/scala-compiler/2.11.1/scala-compiler-2.11.1.jar"
               }
             },
             {
@@ -892,7 +892,7 @@
               "artifact": {
                 "size": 25365,
                 "MD5": "004d7007abbcee858d3ca2c3ccbcbaab",
-                "url": "https://raw.githubusercontent.com/karu724/Lia-Network-Distribution/main/repo/lib/org/scala-lang/plugins/scala-continuations-library_2.11/1.0.2_mc/scala-continuations-library_2.11-1.0.2_mc.jar"
+                "url": "https://github.com/karu724/Lia-Network-Distribution/blob/main/repo/lib/org/scala-lang/plugins/scala-continuations-library_2.11/1.0.2_mc/scala-continuations-library_2.11-1.0.2_mc.jar"
               }
             },
             {
@@ -902,7 +902,7 @@
               "artifact": {
                 "size": 206575,
                 "MD5": "359c4a6743a082c689039482eed78670",
-                "url": "https://raw.githubusercontent.com/karu724/Lia-Network-Distribution/main/repo/lib/org/scala-lang/plugins/scala-continuations-plugin_2.11.1/1.0.2_mc/scala-continuations-plugin_2.11.1-1.0.2_mc.jar"
+                "url": "https://github.com/karu724/Lia-Network-Distribution/blob/main/repo/lib/org/scala-lang/plugins/scala-continuations-plugin_2.11.1/1.0.2_mc/scala-continuations-plugin_2.11.1-1.0.2_mc.jar"
               }
             },
             {
@@ -912,7 +912,7 @@
               "artifact": {
                 "size": 5538130,
                 "MD5": "1d88f665219e6006c5dd82d71c525c0f",
-                "url": "https://raw.githubusercontent.com/karu724/Lia-Network-Distribution/main/repo/lib/org/scala-lang/scala-library/2.11.1/scala-library-2.11.1.jar"
+                "url": "https://github.com/karu724/Lia-Network-Distribution/blob/main/repo/lib/org/scala-lang/scala-library/2.11.1/scala-library-2.11.1.jar"
               }
             },
             {
@@ -922,7 +922,7 @@
               "artifact": {
                 "size": 419701,
                 "MD5": "4e694499c965af4a02599c99d4f0b196",
-                "url": "https://raw.githubusercontent.com/karu724/Lia-Network-Distribution/main/repo/lib/org/scala-lang/scala-parser-combinators_2.11/1.0.1/scala-parser-combinators_2.11-1.0.1.jar"
+                "url": "https://github.com/karu724/Lia-Network-Distribution/blob/main/repo/lib/org/scala-lang/scala-parser-combinators_2.11/1.0.1/scala-parser-combinators_2.11-1.0.1.jar"
               }
             },
             {
@@ -932,7 +932,7 @@
               "artifact": {
                 "size": 4372892,
                 "MD5": "7878fac044e4e4b576bb35a77ccc34fc",
-                "url": "https://raw.githubusercontent.com/karu724/Lia-Network-Distribution/main/repo/lib/org/scala-lang/scala-reflect/2.11.1/scala-reflect-2.11.1.jar"
+                "url": "https://github.com/karu724/Lia-Network-Distribution/blob/main/repo/lib/org/scala-lang/scala-reflect/2.11.1/scala-reflect-2.11.1.jar"
               }
             },
             {
@@ -942,7 +942,7 @@
               "artifact": {
                 "size": 726500,
                 "MD5": "1009d69e4948045383f2a7a334348af5",
-                "url": "https://raw.githubusercontent.com/karu724/Lia-Network-Distribution/main/repo/lib/org/scala-lang/scala-swing_2.11/1.0.1/scala-swing_2.11-1.0.1.jar"
+                "url": "https://github.com/karu724/Lia-Network-Distribution/blob/main/repo/lib/org/scala-lang/scala-swing_2.11/1.0.1/scala-swing_2.11-1.0.1.jar"
               }
             },
             {
@@ -952,7 +952,7 @@
               "artifact": {
                 "size": 648679,
                 "MD5": "c2d7e66495afe14545c31b21e99879ef",
-                "url": "https://raw.githubusercontent.com/karu724/Lia-Network-Distribution/main/repo/lib/org/scala-lang/scala-xml_2.11/1.0.2/scala-xml_2.11-1.0.2.jar"
+                "url": "https://github.com/karu724/Lia-Network-Distribution/blob/main/repo/lib/org/scala-lang/scala-xml_2.11/1.0.2/scala-xml_2.11-1.0.2.jar"
               }
             },
             {
@@ -962,7 +962,7 @@
               "artifact": {
                 "size": 5762,
                 "MD5": "a3e3c3186e41c4a1a3027ba2bb23cdc6",
-                "url": "https://raw.githubusercontent.com/karu724/Lia-Network-Distribution/main/repo/lib/lzma/lzma/0.0.1/lzma-0.0.1.jar"
+                "url": "https://github.com/karu724/Lia-Network-Distribution/blob/main/repo/lib/lzma/lzma/0.0.1/lzma-0.0.1.jar"
               }
             },
             {
@@ -972,7 +972,7 @@
               "artifact": {
                 "size": 318956,
                 "MD5": "e5d2b7f46c4800a32f62ce75676a5710",
-                "url": "https://raw.githubusercontent.com/karu724/Lia-Network-Distribution/main/repo/lib/java3d/vecmath/1.5.2/vecmath-1.5.2.jar"
+                "url": "https://github.com/karu724/Lia-Network-Distribution/blob/main/repo/lib/java3d/vecmath/1.5.2/vecmath-1.5.2.jar"
               }
             },
             {
@@ -982,7 +982,7 @@
               "artifact": {
                 "size": 2523218,
                 "MD5": "8fc4d4e0129244f9fd39650c5f30feb2",
-                "url": "https://raw.githubusercontent.com/karu724/Lia-Network-Distribution/main/repo/lib/net/sf/trove4j/trove4j/3.0.3/trove4j-3.0.3.jar"
+                "url": "https://github.com/karu724/Lia-Network-Distribution/blob/main/repo/lib/net/sf/trove4j/trove4j/3.0.3/trove4j-3.0.3.jar"
               }
             },
             {
@@ -992,7 +992,7 @@
               "artifact": {
                 "size": 54961,
                 "MD5": "7741ebf29690ee7d9dde9cf4376347fc",
-                "url": "https://raw.githubusercontent.com/karu724/Lia-Network-Distribution/main/repo/lib/org/apache/maven/maven-artifact/3.5.3/maven-artifact-3.5.3.jar"
+                "url": "https://github.com/karu724/Lia-Network-Distribution/blob/main/repo/lib/org/apache/maven/maven-artifact/3.5.3/maven-artifact-3.5.3.jar"
               }
             },
             {
@@ -1002,7 +1002,7 @@
               "artifact": {
                 "size": 78175,
                 "MD5": "0a5ec84e23df9d7cfb4063bc55f2744c",
-                "url": "https://raw.githubusercontent.com/karu724/Lia-Network-Distribution/main/repo/lib/net/sf/jopt-simple/jopt-simple/5.0.3/jopt-simple-5.0.3.jar"
+                "url": "https://github.com/karu724/Lia-Network-Distribution/blob/main/repo/lib/net/sf/jopt-simple/jopt-simple/5.0.3/jopt-simple-5.0.3.jar"
               }
             },
             {
@@ -1012,7 +1012,7 @@
               "artifact": {
                 "size": 301804,
                 "MD5": "a9ccfa7e3382dd2b9e0647a43d8286d7",
-                "url": "https://raw.githubusercontent.com/karu724/Lia-Network-Distribution/main/repo/lib/org/apache/logging/log4j/log4j-api/2.15.0/log4j-api-2.15.0.jar"
+                "url": "https://github.com/karu724/Lia-Network-Distribution/blob/main/repo/lib/org/apache/logging/log4j/log4j-api/2.15.0/log4j-api-2.15.0.jar"
               }
             },
             {
@@ -1022,7 +1022,7 @@
               "artifact": {
                 "size": 1789769,
                 "MD5": "81e0433ae00602c0e4d00424d213b0ab",
-                "url": "https://raw.githubusercontent.com/karu724/Lia-Network-Distribution/main/repo/lib/org/apache/logging/log4j/log4j-core/2.15.0/log4j-core-2.15.0.jar"
+                "url": "https://github.com/karu724/Lia-Network-Distribution/blob/main/repo/lib/org/apache/logging/log4j/log4j-core/2.15.0/log4j-core-2.15.0.jar"
               }
             },
             {
@@ -1032,7 +1032,7 @@
               "artifact": {
                 "size": 21223,
                 "MD5": "196442f1bdde4dbb0f576eed616e21b0",
-                "url": "https://raw.githubusercontent.com/karu724/Lia-Network-Distribution/main/repo/lib/org/apache/logging/log4j/log4j-slf4j18-impl/2.15.0/log4j-slf4j18-impl-2.15.0.jar"
+                "url": "https://github.com/karu724/Lia-Network-Distribution/blob/main/repo/lib/org/apache/logging/log4j/log4j-slf4j18-impl/2.15.0/log4j-slf4j18-impl-2.15.0.jar"
               }
             }
           ]
@@ -1043,7 +1043,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 285416,
-            "url": "https://raw.githubusercontent.com/karu724/Lia-Network-Distribution/main/servers/Ria-Poket-1.12.2/forgemods/required/1.12.2DamageIndicatorsMod-3.5.1.jar",
+            "url": "https://github.com/karu724/Lia-Network-Distribution/blob/main/servers/Ria-Poket-1.12.2/forgemods/required/1.12.2DamageIndicatorsMod-3.5.1.jar",
             "MD5": "09dd0cd435c1185b796b3557cbce6cdc"
           }
         },
@@ -1053,7 +1053,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 13056845,
-            "url": "https://raw.githubusercontent.com/karu724/Lia-Network-Distribution/main/servers/Ria-Poket-1.12.2/forgemods/required/CustomNPC_0219.jar",
+            "url": "https://github.com/karu724/Lia-Network-Distribution/blob/main/servers/Ria-Poket-1.12.2/forgemods/required/CustomNPC_0219.jar",
             "MD5": "a4cadf9f81b1a1ed0593c97c5dd5d969"
           }
         },
@@ -1063,7 +1063,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 651473,
-            "url": "https://raw.githubusercontent.com/karu724/Lia-Network-Distribution/main/servers/Ria-Poket-1.12.2/forgemods/required/jei_1.12.2-4.15.0.291.jar",
+            "url": "https://github.com/karu724/Lia-Network-Distribution/blob/main/servers/Ria-Poket-1.12.2/forgemods/required/jei_1.12.2-4.15.0.291.jar",
             "MD5": "cfdbfecefb1bdc5a3fbbcecbfecb0545"
           }
         },
@@ -1073,7 +1073,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 30763,
-            "url": "https://raw.githubusercontent.com/karu724/Lia-Network-Distribution/main/servers/Ria-Poket-1.12.2/forgemods/optionalon/koreanchat-creo-1.12-1.9.jar",
+            "url": "https://github.com/karu724/Lia-Network-Distribution/blob/main/servers/Ria-Poket-1.12.2/forgemods/optionalon/koreanchat-creo-1.12-1.9.jar",
             "MD5": "91492de16021a4f7018eb5d523f45fc2"
           },
           "required": {
@@ -1086,7 +1086,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 2669107,
-            "url": "https://raw.githubusercontent.com/karu724/Lia-Network-Distribution/main/servers/Ria-Poket-1.12.2/forgemods/optionalon/OptiFine_1.12.2_HD_U_G5.jar",
+            "url": "https://github.com/karu724/Lia-Network-Distribution/blob/main/servers/Ria-Poket-1.12.2/forgemods/optionalon/OptiFine_1.12.2_HD_U_G5.jar",
             "MD5": "54e561e441192cf009803ae95873c5d0"
           },
           "required": {
@@ -1099,7 +1099,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 4912890,
-            "url": "https://raw.githubusercontent.com/karu724/Lia-Network-Distribution/main/servers/Ria-Poket-1.12.2/forgemods/required/Pam's+HarvestCraft+1.12.2zg.jar",
+            "url": "https://github.com/karu724/Lia-Network-Distribution/blob/main/servers/Ria-Poket-1.12.2/forgemods/required/Pam's+HarvestCraft+1.12.2zg.jar",
             "MD5": "e8e1ac67accdeea50116e1e92e592397"
           }
         },
@@ -1109,7 +1109,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 362869583,
-            "url": "https://raw.githubusercontent.com/karu724/Lia-Network-Distribution/main/servers/Ria-Poket-1.12.2/forgemods/required/Pixelmon-1.12.2-8.4.2-universal.jar",
+            "url": "https://github.com/karu724/Lia-Network-Distribution/blob/main/servers/Ria-Poket-1.12.2/forgemods/required/Pixelmon-1.12.2-8.4.2-universal.jar",
             "MD5": "afeebcf34f03598ff24078add2419228"
           }
         },
@@ -1119,7 +1119,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 283623,
-            "url": "https://raw.githubusercontent.com/karu724/Lia-Network-Distribution/main/servers/Ria-Poket-1.12.2/forgemods/optionalon/SmoothFont-mc1.12.2-2.1.3.jar",
+            "url": "https://github.com/karu724/Lia-Network-Distribution/blob/main/servers/Ria-Poket-1.12.2/forgemods/optionalon/SmoothFont-mc1.12.2-2.1.3.jar",
             "MD5": "9d42d453c80363808dc4098ebb05fa79"
           },
           "required": {
