@@ -448,7 +448,7 @@
         {
           "id": "net.optifine:optifine:1.17.1_HD_U_H1@jar",
           "name": "OptiFine",
-          "type": "ForgeMod",
+          "type": "Library",
           "artifact": {
             "size": 6344306,
             "url": "https://media.githubusercontent.com/media/karu724/Lia-Network-Distribution/main/servers/Ria-Island-1.17.1/forgemods/optionalon/OptiFine_1.17.1_HD_U_H1.jar",
@@ -754,7 +754,7 @@
         {
           "id": "net.optifine:optifine:1.12.2_HD_U_G5@jar",
           "name": "OptiFine 1.12.2_HD_U_G5",
-          "type": "ForgeMod",
+          "type": "Library",
           "artifact": {
             "size": 2669107,
             "url": "https://media.githubusercontent.com/media/karu724/Lia-Network-Distribution/main/servers/Ria-Network-1.12.2/forgemods/optionalon/OptiFine_1.12.2_HD_U_G5.jar",
@@ -1083,7 +1083,7 @@
         {
           "id": "net.optifine:optifine:1.12.2_HD_U_G5@jar",
           "name": "OptiFine 1.12.2_HD_U_G5",
-          "type": "ForgeMod",
+          "type": "Library",
           "artifact": {
             "size": 2669107,
             "url": "https://media.githubusercontent.com/media/karu724/Lia-Network-Distribution/main/servers/Ria-Poket-1.12.2/forgemods/optionalon/OptiFine_1.12.2_HD_U_G5.jar",
