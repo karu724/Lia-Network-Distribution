@@ -3,10 +3,10 @@
   "meta": {
     "version": "1.0.0",
     "name": ".아일랜드",
-    "description": "리아 네트워크 아일랜드 서버",
+    "description": ".누 온라인 아일랜드 서버",
     "address": "riaisland.mcsv.kr:25565",
     "discord": {
-      "shortId": "리아 네트워크 - 아일랜드",
+      "shortId": "누 온라인 - 아일랜드",
       "largeImageText": "농사 짓는 중",
       "largeImageKey": "icon"
     },
