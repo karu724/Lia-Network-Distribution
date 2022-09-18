@@ -466,7 +466,7 @@
       "description": "누 온라인 RPG + 길드전쟁 서버",
       "icon": null,
       "version": "1.0.0",
-      "address": "rianetwork.mcsv.kr:25565",
+      "address": "neuonline.kr:25565",
       "minecraftVersion": "1.12.2",
       "discord": {
         "shortId": "누 온라인 - RPG+길드전쟁",
