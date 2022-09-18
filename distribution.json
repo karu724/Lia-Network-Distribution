@@ -2,23 +2,23 @@
   "version": "1.0.0",
   "rss": "<LINK TO RSS FEED>",
   "discord": {
-    "clientId": "리아 네트워크",
+    "clientId": "누 온라인",
     "smallImageText": "서버 접속 대기중",
-    "smallImageKey": "main.png"
+    "smallImageKey": "icon"
   },
   "servers": [
     {
       "id": "Ria-Island-1.17.1",
       "name": "아일랜드",
-      "description": "리아 네트워크 아일랜드",
+      "description": "누 온라인 아일랜드",
       "icon": null,
       "version": "1.0.0",
       "address": "riaisland.mcsv.kr:25565",
       "minecraftVersion": "1.17.1",
       "discord": {
-        "shortId": "리아 네트워크 - 아일랜드",
+        "shortId": "누 온라인 - 아일랜드",
         "largeImageText": "농사 짓는 중",
-        "largeImageKey": "main.png"
+        "largeImageKey": "icon"
       },
       "mainServer": false,
       "autoconnect": true,
@@ -463,15 +463,15 @@
     {
       "id": "Ria-Network-1.12.2",
       "name": "RPG + 국가전쟁",
-      "description": "리아 네트워크 RPG + 국가전쟁 서버",
+      "description": "누 온라인 RPG + 국가전쟁 서버",
       "icon": null,
       "version": "1.0.0",
       "address": "rianetwork.mcsv.kr:25565",
       "minecraftVersion": "1.12.2",
       "discord": {
-        "shortId": "리아 네트워크 - RPG+국가전쟁",
+        "shortId": "누 온라인 - RPG+국가전쟁",
         "largeImageText": "몬스터 잡는 중",
-        "largeImageKey": "main.png"
+        "largeImageKey": "icon"
       },
       "mainServer": true,
       "autoconnect": true,
@@ -782,15 +782,15 @@
     {
       "id": "Ria-Poket-1.12.2",
       "name": "포켓몬",
-      "description": "리아 네트워크 포켓몬 서버",
+      "description": "누 온라인 포켓몬 서버",
       "icon": null,
       "version": "1.0.0",
       "address": "riapoket.mcsv.kr:25565",
       "minecraftVersion": "1.12.2",
       "discord": {
-        "shortId": "리아 네트워크 - 포켓몬",
+        "shortId": "누 온라인 - 포켓몬",
         "largeImageText": "포켓몬 잡는 중",
-        "largeImageKey": "main.png"
+        "largeImageKey": "icon"
       },
       "mainServer": false,
       "autoconnect": true,
